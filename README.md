@@ -1,5 +1,9 @@
 # Backend Project
  
+A mern project , like youtube, mainly focusing backend
+
+or
+
  A Backend project to revise and also to clear my backend doubts
 
 
